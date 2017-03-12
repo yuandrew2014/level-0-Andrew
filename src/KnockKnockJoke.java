@@ -4,7 +4,7 @@ public class KnockKnockJoke {
 	public static void main(String[] args) {
 		JOptionPane.showInputDialog("KnockKnock");
 		JOptionPane.showInputDialog("Who");
-		JOptionPane.showMessageDialog("Is there an owl in there?");
+		JOptionPane.showMessageDialog(null, "You are an owl");
 
 	}
 }
